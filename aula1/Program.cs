@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Linha alterada pelo Eduardo
 Console.WriteLine("Hello, World!");
 
 // Linha alterada pelo Eduardo
