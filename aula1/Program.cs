@@ -1,4 +1,4 @@
-﻿// Linha alterada pelo Eduardo
+﻿// Hello world!
 Console.WriteLine("Hello, World!");
 
 // Linha alterada pelo Eduardo
