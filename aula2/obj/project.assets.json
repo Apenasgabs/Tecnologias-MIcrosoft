@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/gabs/.nuget/packages/": {}
+    "C:\\Users\\Gabriel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabs/Documentos/Projetos/Pessoais/Aula-DotNet/aula1/aula1.csproj",
-      "projectName": "aula1",
-      "projectPath": "/home/gabs/Documentos/Projetos/Pessoais/Aula-DotNet/aula1/aula1.csproj",
-      "packagesPath": "/home/gabs/.nuget/packages/",
-      "outputPath": "/home/gabs/Documentos/Projetos/Pessoais/Aula-DotNet/aula1/obj/",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\projetos\\Estudos-C\\aula2\\aula2.csproj",
+      "projectName": "aula2",
+      "projectPath": "C:\\Users\\Gabriel\\Documents\\projetos\\Estudos-C\\aula2\\aula2.csproj",
+      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel\\Documents\\projetos\\Estudos-C\\aula2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/gabs/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/gabs/dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
