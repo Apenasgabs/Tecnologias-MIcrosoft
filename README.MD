@@ -1,7 +1,8 @@
 ### Criação de aplicacao .NET
  `dotnet new console -o <nome-da-aplicacao>`
- Use esse comando para criar uma nova aplicacao .NET do tipo console 
- Para criar uma API basta trocar console por webapi
+ Use esse comando para criar uma nova aplicacao .NET do tipo console.
+ Para criar uma API basta trocar console por webapi.
+ Assim:
   `dotnet new webapi -o <nome-da-aplicacao>`
  ### Instruções para rodar o projeto 
  Dentro do diretório da aplicação (aquivo com extensao .cs)
